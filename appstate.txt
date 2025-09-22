@@ -1,4 +1,3 @@
-paste your cookie header string here...
 [
     {
         "key": "dbln",
